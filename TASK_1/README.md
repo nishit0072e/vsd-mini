@@ -31,19 +31,35 @@ int main(){
 - Use Vi editor to write the code 
 - Use gcc compiler to compile the c code 
 - Run the program using ./a.out
+<div align="center">
+  <img src="https://github.com/nishit0072e/vsd-mini/blob/main/images/test_program.png" alt="GCC simulation of test Program" width="950"/>
+  <p><strong>Figure 1:</strong> GCC simulation of test Program</p>
+</div>
+
 
 ### Compile the code using RISC-V toolchain
 - Use the command
 ```
-riscv64-unknown-elf-gcc -o sumof1ton sumof1ton.c
+riscv64-unknown-elf-gcc -O1 -mabi=lp64 -march=rv64i -o sum1ton.o sum1ton.c
 ```
-[image]
+<div align="center">
+  <img src="https://github.com/nishit0072e/vsd-mini/blob/main/images/test_pgm_compile_RV.png" alt="test C Program compilation using RISC-V toolchain" width="950"/>
+  <p><strong>Figure 2:</strong> Test C Program simulation using RISC-V toolchain</p>
+</div>
+
 - now open a new terminal & use the command to see the disassembled asembly code 
+
 ```
 riscv64-unknown-elf-objdump -d sum1ton.o
 ```
-[image]
+
+<div align="center">
+  <img src="https://github.com/nishit0072e/vsd-mini/blob/main/images/disambled_object_code.png" alt="Object file disassembled" width="950"/>
+  <p><strong>Figure 3:</strong> Object file disassembled</p>
+</div>
+
 - now use this command to pipe the output in less page
+  
 ```
 riscv64-unknown-elf-objdump -d sum1ton.o | less
 ```
