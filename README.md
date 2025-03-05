@@ -4,3 +4,4 @@ This Repository solely made for the Research Internship using VSDSquadron Mini R
 # [TASK 1](https://github.com/nishit0072e/vsd-mini/tree/main/TASK_1) ✅
 # [TASK 1](https://github.com/nishit0072e/vsd-mini/tree/main/TASK_2) ✅
 # [TASK 1](https://github.com/nishit0072e/vsd-mini/tree/main/TASK_3) ✅
+# [TASK 1](https://github.com/nishit0072e/vsd-mini/tree/main/TASK_4) ✅
