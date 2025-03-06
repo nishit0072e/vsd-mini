@@ -79,3 +79,16 @@ This board is a great choice for learning RISC-V, developing compact embedded pr
 > ***NOTE:** Functional Simulation of RISC-V Core Using Verilog*
 ## [TASK 5](https://github.com/nishit0072e/vsd-mini/tree/main/TASK_5) ✅
 > ***NOTE:** Implementation of any circuit utilizing VSDSquadron Mini and verify that the RISCV processor's C program*
+## [TASK 6](https://github.com/nishit0072e/vsd-mini/tree/main/TASK_6) ✅
+> ***NOTE:** completed code along with a demonstration video of the application*
+
+
+# Acknowledgement    
+**I want to thank [Kunal Ghosh](https://www.linkedin.com/in/kunal-ghosh-vlsisystemdesign-com-28084836/) Sir from VLSI System Design for giving me this amazing internship opportunity in RISC-V Architecture with the VSDSquadron Mini. This chance offered me to learn more about the RISC-V. This internship program was a very inspiring and fulfilling experience. I want to express my gratitude to VLSI System Design for starting this amazing research internship.**
+
+
+# Connect with me
+- Nishit Bayen
+- Final Year B.Tech(ECE), Dr. B. C. Roy Engineering College, Durgapur
+- [Linkedin](https://www.linkedin.com/in/nishit-bayen/)
+- [Gmail](nishitbayen2024@gmail.com)
