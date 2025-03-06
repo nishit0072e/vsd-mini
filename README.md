@@ -77,3 +77,5 @@ This board is a great choice for learning RISC-V, developing compact embedded pr
 > ***NOTE:** Identifying RISC-V Instruction Types*
 ## [TASK 4](https://github.com/nishit0072e/vsd-mini/tree/main/TASK_4) ✅
 > ***NOTE:** Functional Simulation of RISC-V Core Using Verilog*
+## [TASK 5](https://github.com/nishit0072e/vsd-mini/tree/main/TASK_5) ✅
+> ***NOTE:** Implementation of any circuit utilizing VSDSquadron Mini and verify that the RISCV processor's C program*
