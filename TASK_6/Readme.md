@@ -64,4 +64,4 @@ void My_Delay_Ms(uint32_t n) {
 ```
 
 ### **LFSR Video:**
-[Click Here](https://drive.google.com/file/d/12UFlZ1OrSupuZroSccUdJK6XQvvZt9e7/view?usp=sharing) to see the functioning of 4-Bit LFSR on VSDSquadron Mini Board
+[Click Here](https://drive.google.com/file/d/13AAW6Aoj35xdiZLePVxmJBtnDs1LexD1/view) to see the functioning of 4-Bit LFSR on VSDSquadron Mini Board
