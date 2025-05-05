@@ -86,6 +86,8 @@ This board is a great choice for learning RISC-V, developing compact embedded pr
 # Acknowledgement    
 **I want to thank [Kunal Ghosh](https://www.linkedin.com/in/kunal-ghosh-vlsisystemdesign-com-28084836/) Sir from VLSI System Design for giving me this amazing internship opportunity in RISC-V Architecture with the VSDSquadron Mini. This chance offered me to learn more about the RISC-V. This internship program was a very inspiring and fulfilling experience. I want to express my gratitude to VLSI System Design for starting this amazing research internship.**
 
+# Certificate
+[RISC-V Internship Certificate](VSD_CERTIFICATE.pdf)
 
 # Connect with me
 - Nishit Bayen
